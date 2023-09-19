@@ -20,7 +20,7 @@ Load the module after loading Highlight.js. You'll use the minified version foun
 
 ```html
 <script type="text/javascript"
-  src="https://unpkg.com/@leitmotif-dev/highlightjs-pbxproj@1.0.0/dist/pbxproj.min.js"></script>
+  src="https://unpkg.com/@leitmotif-dev/highlightjs-pbxproj@1.0.1/dist/pbxproj.min.js"></script>
 ```
 
 - More info: <https://unpkg.com>
@@ -48,8 +48,8 @@ Leitmotif GmbH <hello@leitmotif.dev>
 
 ### Maintainers
 
-Florian Albrecht <florian@leitmotif.dev>,
-Michael Ehrmann <michael@leimotif.dev>
+* Florian Albrecht <florian@leitmotif.dev>
+* Michael Ehrmann <michael@leimotif.dev>
 
 ## Links
 

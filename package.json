@@ -1,6 +1,6 @@
 {
   "name": "@leitmotif-dev/highlightjs-pbxproj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "highlight.js syntax definition for Apple Xcode pbxproj files",
   "main": "src/pbxproj.js",
   "scripts": {
