@@ -2,7 +2,7 @@
   "name": "highlightjs-pbxproj",
   "version": "0.0.1",
   "description": "highlight.js syntax definition for Apple Xcode pbxproj files",
-  "main": "src/rpbxproj.js",
+  "main": "src/pbxproj.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
