@@ -2,11 +2,11 @@
 
 ## Usage
 
-Simply include the Highlight.js library in your webpage or Node app, then load this module.
+Include the Highlight.js library in your webpage or Node app, then load this module.
 
 ### Static website or simple usage
 
-Simply load the module after loading Highlight.js.  You'll use the minified version found in the `dist` directory.  This module is just a CDN build of the language, so it will register itself as the Javascript is loaded.
+Load the module after loading Highlight.js. You'll use the minified version found in the `dist` directory.  This module is just a CDN build of the language, so it will register itself as the Javascript is loaded.
 
 ```html
 <script type="text/javascript" src="/path/to/highlight.min.js"></script>
@@ -16,12 +16,11 @@ Simply load the module after loading Highlight.js.  You'll use the minified vers
 </script>
 ```
 
-
 ### Using directly from the UNPKG CDN
 
 ```html
 <script type="text/javascript"
-  src="https://unpkg.com/highlightjs-robots-txt@0.9.1/dist/robots-txt.min.js"></script>
+  src="https://unpkg.com/@leitmotif-dev/highlightjs-pbxproj@1.0.0/dist/pbxproj.min.js"></script>
 ```
 
 - More info: <https://unpkg.com>
@@ -49,8 +48,8 @@ Leitmotif GmbH <hello@leitmotif.dev>
 
 ### Maintainers
 
-Florian Albrecht
-Michael Ehrmann
+Florian Albrecht <florian@leitmotif.dev>,
+Michael Ehrmann <michael@leimotif.dev>
 
 ## Links
 
