@@ -1,5 +1,8 @@
 # pbxproj - a language grammar for highlight.js
 
+![version](https://badgen.net/npm/v/@leitmotif-dev/highlightjs-pbxproj) ![license](https://badgen.net/badge/license/MIT/blue)
+![install size](https://badgen.net/packagephobia/install/@leitmotif-dev/highlightjs-pbxproj)
+
 ## Usage
 
 Include the Highlight.js library in your webpage or Node app, then load this module.
