@@ -3,6 +3,10 @@
 ![version](https://badgen.net/npm/v/@leitmotif-dev/highlightjs-pbxproj) ![license](https://badgen.net/badge/license/MIT/blue)
 ![install size](https://badgen.net/packagephobia/install/@leitmotif-dev/highlightjs-pbxproj)
 
+## Description
+
+This is a language grammar for highlight.js (version 11.x) that highlights Xcode Project (.pbxproj) files as written by [Apple Xcode](https://developer.apple.com/xcode/).
+
 ## Usage
 
 Include the Highlight.js library in your webpage or Node app, then load this module.
@@ -51,12 +55,13 @@ Leitmotif GmbH <hello@leitmotif.dev>
 
 ### Maintainers
 
-* Florian Albrecht <florian@leitmotif.dev>
-* Michael Ehrmann <michael@leimotif.dev>
+- Florian Albrecht <florian@leitmotif.dev>
+- Michael Ehrmann <michael@leimotif.dev>
 
 ## Links
 
 - The official site for the Highlight.js library is <https://highlightjs.org/>.
 - The Highlight.js GitHub project: <https://github.com/highlightjs/highlight.js>
+- Some information on the file format: <http://www.monobjc.net/xcode-project-file-format.html>
 
 [1]: https://github.com/leitmotif-dev/highlightjs-pbxproj/blob/master/LICENSE
