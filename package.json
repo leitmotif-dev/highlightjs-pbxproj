@@ -1,7 +1,7 @@
 {
   "name": "@leitmotif-dev/highlightjs-pbxproj",
-  "version": "1.0.1",
-  "description": "highlight.js syntax definition for Apple Xcode pbxproj files",
+  "version": "1.0.2",
+  "description": "highlight.js grammar for Apple Xcode Project (.pbxproj) files",
   "main": "src/pbxproj.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
